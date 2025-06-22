@@ -11,7 +11,7 @@ A simple and responsive calculator built using **Tailwind CSS** and **Vanilla Ja
 
 ## 💻 Demo
 
-Live preview: [Click here](https://Suraj-7874.github.io/tailwind-calculator/)
+Live preview: [Click here](https://suraj-7874.github.io/Tailwind-Simple-Calculator/)
 
 
 
