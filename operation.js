@@ -87,6 +87,6 @@ clearHistoryBtn.addEventListener("click", () =>
    {
   localStorage.removeItem("history");
   loadHistory(); 
-  alert("code_with_Suraj-7874\n\n\nHistory cleared successfully!");
+  alert("History cleared successfully!");
 
 });
